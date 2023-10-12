@@ -1,0 +1,7 @@
+./App/node_modules
+
+./App/package-lock.json
+
+.idea
+
+logapache

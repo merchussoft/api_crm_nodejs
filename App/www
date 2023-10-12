@@ -1,0 +1,10 @@
+const app = require('./src/App');
+
+
+
+
+
+
+app.listen(app.get('port'), () => {
+    console.log(`SERVER RUNNING UN PORT ${app.get('port')}`)
+})
