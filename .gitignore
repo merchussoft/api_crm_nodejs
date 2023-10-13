@@ -1,6 +1,6 @@
-./App/node_modules
+App/node_modules
 
-./App/package-lock.json
+App/package-lock.json
 
 .idea
 
